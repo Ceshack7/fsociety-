@@ -13,5 +13,5 @@ cd Fsociety
 
 ls
 
-python
+python Fsociety.py
 

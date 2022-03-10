@@ -11,11 +11,6 @@ pip install requests
 
 git clone https://github.com/Ceshack7/fsociety-
 
-ls
-
-cd Fsociety.py
-
-ls
+cd fsociety-/
 
 python Fsociety.py
-

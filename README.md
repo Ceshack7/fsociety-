@@ -1,6 +1,5 @@
 # Fsociety
 *script F-society*
-hr
 ~~~
 pkg install python
 

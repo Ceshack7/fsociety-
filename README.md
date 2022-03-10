@@ -9,7 +9,7 @@ git clone https://github.com/Ceshack7/fsociety-
 
 ls
 
-cd Fsociety
+cd Fsociety.py
 
 ls
 

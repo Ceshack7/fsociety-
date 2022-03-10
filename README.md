@@ -1,6 +1,8 @@
 # Fsociety
 *script F-society*
 ~~~
+pkg upgrade
+
 pkg install python
 
 pkg install git
